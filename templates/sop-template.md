@@ -11,7 +11,10 @@ What must be true before execution.
 Phases only (no internal commands).
 
 ## Validation & Checks
-How correctness is confirmed.
+- How correctness is confirmed
+- What evidence indicates success vs partial completion
+- What signals require escalation versus safe continuation
+``
 
 ## Failure Modes
 Common issues and how they are identified.
