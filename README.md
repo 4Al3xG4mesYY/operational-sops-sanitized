@@ -1,7 +1,6 @@
 # Operational SOPs (Sanitized)
 
-This repository contains sanitized SOP templates and examples based on
-real operational work in regulated, production environments.
+This repository contains a sanitized SOP template and supporting guidance based on real operational work in regulated, production environments
 
 Focus areas:
 - repeatability and clarity
@@ -9,4 +8,4 @@ Focus areas:
 - explicit completion criteria
 - separation of execution, validation, and decision authority
 
-Tool- and environment-specific details are intentionally removed.
+Tool and environment-specific details are intentionally removed.
